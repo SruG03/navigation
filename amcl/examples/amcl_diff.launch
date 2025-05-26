@@ -1,4 +1,9 @@
 <launch>
+
+#this is in the error
+
+
+#heheeheheheheehhhehe
 <node pkg="amcl" type="amcl" name="amcl" output="screen">
   <!-- Publish scans from best pose at a max of 10 Hz -->
   <param name="odom_model_type" value="diff"/>
